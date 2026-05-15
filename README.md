@@ -45,6 +45,10 @@ plant_ai/
 +-- README.md
 ```
 
+## Dataset 
+
+https://www.kaggle.com/datasets/mohitsingh1804/plantvillage
+
 ## Supported Disease Classes
 
 The model supports 38 classes across crops such as apple, cherry, corn, grape, orange, peach, pepper, potato,
